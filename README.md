@@ -1,2 +1,7 @@
-# week 11 Example
- Example week 11 Repository spring 2023
+# Dog-Fact-Game
+
+To DO: 
+  - Implement API calls for:
+    - Random Dog Image
+    - Random Question Generator
+  - Configure controller and start creating variables
